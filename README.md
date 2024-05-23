@@ -19,11 +19,13 @@
 </ul>
 
 <h2>Dashboard Printing</h2>
-![Ranking Agentes](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/1f10e1c0-c4ec-46e4-b887-071f62668ff9)
 
 ![Ranking Green](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/7e6522f7-6217-4028-bfc9-962df79e23b6)
 
 ![Ranking Violet](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/9d180bcf-e75b-4bef-a279-d968148b168f)
+
+![Ranking Agentes](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/72a76d90-461f-44a8-9ffc-c144a9ddcdbe)
+
 
 
 
