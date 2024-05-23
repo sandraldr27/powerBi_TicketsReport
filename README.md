@@ -14,6 +14,7 @@
   <li>Filter panel</li>
   <li>Drill Through</li>
   <li>Report page tooltips</li>
+  <li>Internal navigation between report dashboards</li>
   <li>creation and preparation of the report</li>
   <li>Bookmarks</li>
 </ul>
