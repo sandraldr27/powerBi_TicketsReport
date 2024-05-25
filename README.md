@@ -33,6 +33,16 @@
 ![9](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/11a33270-3e5b-4b65-8fe7-71c634069285)
 
 
+<h2>Table Views:</h2>
+
+![0](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/ce0e44c7-4be9-4ddf-b83b-42ae9ea48e04)
+![1](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/4f0ba934-7d6a-4fc9-b295-66efc19cb0a4)
+![2](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/50d90499-f832-4f8d-951b-9dd25192888a)
+![3](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/30e45a9e-8179-45d3-a2c9-44edfb2c28db)
+![4](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/c649416c-a393-4a34-9175-8030347f259d)
+![5](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/dc0cf1b4-1903-4073-bf72-38734b9e3b7d)
+
+
 <h2>Dashboard Printing:</h2>
 
 ![Ranking Green](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/7e6522f7-6217-4028-bfc9-962df79e23b6)
