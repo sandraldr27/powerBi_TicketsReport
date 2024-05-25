@@ -55,13 +55,13 @@
 
 <h2>Dashboard Printing:</h2>
 
-<h1>Ticket History:</h1>
+<h3>Ticket History:</h3>
 
 ![Ranking Green](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/7e6522f7-6217-4028-bfc9-962df79e23b6)
 
 ![Ranking Violet](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/9d180bcf-e75b-4bef-a279-d968148b168f)
 
-<h1>Agent Performance:</h1>
+<h3>Agent Performance:</h3>
 
 ![Ranking Agentes](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/72a76d90-461f-44a8-9ffc-c144a9ddcdbe)
 
