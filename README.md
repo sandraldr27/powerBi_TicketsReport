@@ -42,6 +42,9 @@
 ![4](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/c649416c-a393-4a34-9175-8030347f259d)
 ![5](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/dc0cf1b4-1903-4073-bf72-38734b9e3b7d)
 
+<h2>Model Views:</h2>
+
+![1](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/db63f8e8-ec32-4da0-a6a6-a84fba7d6242)
 
 <h2>Dashboard Printing:</h2>
 
