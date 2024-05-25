@@ -46,17 +46,16 @@
 
 ![1](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/db63f8e8-ec32-4da0-a6a6-a84fba7d6242)
 
+<h2>Reporting templates:</h2>
+
+![Balance](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/6ba0343f-e320-4ee6-9a5c-6014b5180e12)
+![All   All Selected](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/4ae8ed45-1516-4e98-94f8-ed2edfff84bb)
+![Rankx](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/94b5ddf3-419b-494e-9321-509d368f0e2d)
+![Ranking General](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/1e40d23c-45e2-4e59-b867-10fb2514ab20)
+
 <h2>Dashboard Printing:</h2>
 
 ![Ranking Green](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/7e6522f7-6217-4028-bfc9-962df79e23b6)
-
-![Balance](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/6ba0343f-e320-4ee6-9a5c-6014b5180e12)
-
-![All   All Selected](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/4ae8ed45-1516-4e98-94f8-ed2edfff84bb)
-
-![Rankx](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/94b5ddf3-419b-494e-9321-509d368f0e2d)
-
-![Ranking General](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/1e40d23c-45e2-4e59-b867-10fb2514ab20)
 
 ![Ranking Violet](https://github.com/sandraldr27/powerBi_TicketsReport/assets/116546588/9d180bcf-e75b-4bef-a279-d968148b168f)
 
